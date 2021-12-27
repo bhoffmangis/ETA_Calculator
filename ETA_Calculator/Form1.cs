@@ -3,7 +3,7 @@
 // Version 7 need to add input validation for
 //           invalid entry as well as non-entry
 // Version 8 adds input validation
-//           modifys menu bar item ("Help" changed to "About")
+//           modifies menu bar item ("Help" changed to "About")
 
 using System;
 using System.Collections.Generic;
